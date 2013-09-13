@@ -9,8 +9,8 @@ pygments: yes
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : my blog
-tagline: Site Tagline
+title : eLinux Report
+tagline: Focus on the embedded linux
 author :
   name : xydang
   email : crazydang@gmail.com
